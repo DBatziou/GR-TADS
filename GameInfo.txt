@@ -1,0 +1,13 @@
+IFID: ec944db5-6225-4d0b-a7a4-4eac87cfb010
+Name: Η δική μου ιστορία
+Byline: by Δήμητρα Μπάτζιου
+HtmlByline: by <a href="mailto:your-email@host.com"> Δήμητρα Μπάτζιου</a>
+AuthorEmail: Δήμητρα Μπάτζιου <your-email@host.com>
+Desc: Put a brief "blurb" about your game here
+HtmlDesc: Put a brief "blurb" about your game here
+Version: 1
+ReleaseDate: 2025-01-22
+Language: el-GR
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
