@@ -51,9 +51,13 @@ There you change *en_us* to *el_gr* and *neu* to *el*
 ## 3.Import the extension in your .t source file
 In the beginning of your game file you should include the new library.
 ``` tads
-#include <greek.t>
+#include <el_gr.h>
 ```
 
 ⚠️In order to use the library extension as well as the example, you need to change the encoding of the files to ISO 8859-7 through your editor (Notepad++ etc). 
 In Notepad++ you can do that by following the path:
 *Encoding -> Character sets -> Greek -> iso-8859-7*
+
+# DEMO
+
+[🎥 Watch the demo](demo.mp4)
